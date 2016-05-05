@@ -128,7 +128,7 @@
       <profiles/>
       <links/>
     </entry>
-    <entry id="e89f96f0-a7f7-4264-aa7b-6b2baa908367" name="Ork Onslaught attack ship" points="45.0" categoryId="4573636f72747323232344415441232323" type="unit" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
+    <entry id="e89f96f0-a7f7-4264-aa7b-6b2baa908367" name="Ork Onslaught attack ship" points="35.0" categoryId="4573636f72747323232344415441232323" type="unit" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
       <entries/>
       <entryGroups/>
       <modifiers/>
@@ -136,7 +136,7 @@
       <profiles/>
       <links/>
     </entry>
-    <entry id="2fa646e7-b11a-48d1-8867-c227f3438e32" name="Ork Ravager attack ship" points="35.0" categoryId="4573636f72747323232344415441232323" type="unit" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
+    <entry id="2fa646e7-b11a-48d1-8867-c227f3438e32" name="Ork Ravager attack ship" points="40.0" categoryId="4573636f72747323232344415441232323" type="unit" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
       <entries/>
       <entryGroups/>
       <modifiers/>
@@ -152,7 +152,7 @@
       <profiles/>
       <links/>
     </entry>
-    <entry id="061bb515-c6af-43cf-bc13-d5658a677cb9" name="Ork Savage gunship" points="40.0" categoryId="4573636f72747323232344415441232323" type="unit" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
+    <entry id="061bb515-c6af-43cf-bc13-d5658a677cb9" name="Ork Savage gunship" points="30.0" categoryId="4573636f72747323232344415441232323" type="unit" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
       <entries/>
       <entryGroups/>
       <modifiers/>
@@ -177,7 +177,7 @@
       <profiles/>
       <links/>
     </entry>
-    <entry id="142badd7-b775-4e2c-8659-211225541e22" name="Ork Warlord" points="40.0" categoryId="466c65657420436f6d6d616e6465727323232344415441232323" type="unit" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
+    <entry id="142badd7-b775-4e2c-8659-211225541e22" name="Ork Warlord" points="0.0" categoryId="466c65657420436f6d6d616e6465727323232344415441232323" type="unit" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
       <entries>
         <entry id="057fb61e-da93-45d5-b65d-463a49f0f8e3" name="Warlord Re-Rolls" points="20.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="2" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
           <entries/>
